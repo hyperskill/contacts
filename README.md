@@ -1,5 +1,5 @@
-# Phone Book
+# Contacts
 
-Project: Phone Book
+Project: Contacts
 
 Go to the *src* directory, change *Main.java* and put your *.java* file(s) in it.
